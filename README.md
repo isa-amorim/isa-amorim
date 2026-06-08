@@ -8,26 +8,15 @@ Sou profissional em transição para a área de **Análise de Dados**, atualment
 
 ### 🛠️ Tecnologias & Ferramentas
 
-* **Dados & BI:** PostgreSQL | Power BI | Excel Avançado
-* **Infraestrutura:** Cloud Computing (Estudando para AWS Certified Cloud Practitioner)
+* **Dados & BI:** PostgreSQL | Power BI | Excel | Python
 * **Core Skills:** Análise Exploratória (EDA), Modelagem Dimensional, KPIs de Negócio
 
 ---
 
 ### 🚀 Projetos em Destaque
-
-* **[End-to-End: Otimização de KPIs em Fintech ↗](LINK_DO_REPOSITORIO)**
-  *Integração direta entre PostgreSQL e Power BI para monitoramento de churn e risco de crédito.*
   
 * **[Análise Exploratória de Dados (EDA): Meios de Pagamento ↗](LINK_DO_REPOSITORIO)**
   *Manipulação de grandes volumes de dados via SQL para identificação de padrões de comportamento de clientes.*
-
----
-
-### 📜 Certificações & Conquistas
-
-* ☁️ **[Repositório Central de Certificados ↗](LINK_DO_SEU_REPOSITORIO_DE_CERTIFICADOS)**
-  *Acesse esta pasta para visualizar minhas licenças, históricos acadêmicos e a evolução dos meus estudos em Análise de Dados.*
 
 ---
 
