@@ -15,7 +15,7 @@ Sou profissional em transição para a área de **Análise de Dados**, atualment
 
 ### 🚀 Projetos em Destaque
   
-* **[Análise Exploratória de Dados (EDA): Meios de Pagamento ↗](LINK_DO_REPOSITORIO)**
+* **[Análise Exploratória de Dados (EDA): Performance Comercial e Otimização de Comissões ↗](LINK_DO_REPOSITORIO)**
   *Manipulação de grandes volumes de dados via SQL para identificação de padrões de comportamento de clientes.*
 
 ---
