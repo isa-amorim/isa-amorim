@@ -17,7 +17,7 @@ Atualmente, estou focada no desenvolvimento de projetos práticos e análises ex
 
 ### 🚀 Projetos em Destaque
   
-* **[Análise Exploratória de Dados (EDA): Meios de Pagamento ↗](https://github.com/isa-amorim/analise-descritiva-performance-vendas-comissoes)**
+* **[Análise Descritiva: Performance Comercial e Otimização de Comissões ↗](https://github.com/isa-amorim/analise-descritiva-performance-vendas-comissoes)**
 *Investigação de métricas de faturamento por categoria, auditoria de comissões e impacto do tempo de casa na rampa de vendas via SQL.*
 
 ---
