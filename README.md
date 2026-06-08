@@ -4,8 +4,6 @@
 
 Sou profissional em transição para a área de **Análise de Dados**, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Minha trajetória é marcada por uma forte bagagem em comunicação estratégica, foco na experiência do cliente e resolução de problemas complexos. 
 
-Hoje, traduzo dados estruturados em insights acionáveis que impulsionam resultados de negócios, com foco especial no setor de **Fintechs**.
-
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
