@@ -40,15 +40,6 @@ Minha trajetória é dedicada à construção de **pipelines de dados resiliente
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isa-amorim&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Isa Amorim" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa-amorim&layout=compact&theme=radial&hide=html,css" alt="Linguagens mais usadas por Isa Amorim" height="175"/>
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 
 - **LinkedIn:** [linkedin.com/in/isa-amorim](https://linkedin.com/in/isa-amorim)
